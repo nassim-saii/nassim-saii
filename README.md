@@ -4,7 +4,7 @@
 **nassim-saii/nassim-saii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 
-- 👨‍🎓 I’m Cyber-security student in [TEK-UP](tek-up.de) university
+- 👨‍🎓 I’m Cyber-security student in [TEK-UP](https://tek-up.de) university
 - 🔭 I’m working on hardware hacking projects 
 - 🌱 I’m currently learning communtications protocols networking security and RF protocols  
 <!--  - 👯 I’m looking to collaborate on ...
