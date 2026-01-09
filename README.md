@@ -1,8 +1,7 @@
-## 👋 Hi, I'm Nassim Saii 
+👋 Hi, I'm Nassim Saii
+----------------------
 
-🎓 Cybersecurity & Networking Student
-🔐 Interested in Offensive Security, Network Defense, and Security Standards
-💻 Python | Linux | GNS3 | OpenWRT | ISO 27001 | CCNA
+🎓 **Cybersecurity & Networking Student**🔐 **Interested in Offensive Security, Network Defense, and Security Standards**💻 **Python | Linux | GNS3 | OpenWRT | ISO 27001 | CCNA**
 
 ### 🧠 About Me
 
