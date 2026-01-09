@@ -1,19 +1,11 @@
-## Hi there 👋
+## 👋 Hi, I'm Nassim Saii 
 
-<!-- 
-**nassim-saii/nassim-saii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
+🎓 Cybersecurity & Networking Student
+🔐 Interested in Offensive Security, Network Defense, and Security Standards
+💻 Python | Linux | GNS3 | OpenWRT | ISO 27001 | CCNA
 
+### 🧠 About Me
 
-- 👨‍🎓 I’m Cyber-security student in [TEK-UP](https://tek-up.de) university
-- 🔭 I’m working on hardware hacking projects 
-- 🌱 I’m currently learning communtications protocols networking security and RF protocols  
-<!--  - 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ... -->
+I am a cybersecurity student with strong hands-on experience in **networking, system security, and security analysis**. My work focuses on building practical labs, security tools, and academic projects that bridge the gap between theory and real-world implementation.
 
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nassim-saii&theme=merko&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
+I actively work with **Linux environments**, **Python scripting**, and **network simulation tools** to understand and demonstrate security concepts such as intrusion detection, access control, vulnerability analysis, and secure architecture design.
